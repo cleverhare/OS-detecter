@@ -4,7 +4,7 @@
 This is an OS detecter app made using pure HTML, CSS, JS and I hope this project is going to be really very interesting
 ## Quickly check how it looks
 
-![App Screenshot](./github.png)
+![App Screenshot](./Github.png)
 
 
 ## To run it on your Local machine 
